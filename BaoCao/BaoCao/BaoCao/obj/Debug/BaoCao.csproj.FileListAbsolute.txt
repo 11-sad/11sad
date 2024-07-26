@@ -1,0 +1,32 @@
+D:\cautrucdulieu\BaoCao\BaoCao\bin\Debug\BaoCao.exe.config
+D:\cautrucdulieu\BaoCao\BaoCao\bin\Debug\BaoCao.exe
+D:\cautrucdulieu\BaoCao\BaoCao\bin\Debug\BaoCao.pdb
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.AssemblyReference.cache
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.SuggestedBindingRedirects.cache
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.Form1.resources
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.Prim.resources
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.exe
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.pdb
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.Kruscal.resources
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.Dijkstra.resources
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.DFS.resources
+D:\cautrucdulieu\BaoCao\BaoCao\obj\Debug\BaoCao.BFS.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\bin\Debug\BaoCao.exe.config
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\bin\Debug\BaoCao.exe
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\bin\Debug\BaoCao.pdb
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.AssemblyReference.cache
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.SuggestedBindingRedirects.cache
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.BFS.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.DFS.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.Dijkstra.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.Form1.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.Kruscal.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.Prim.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.exe
+D:\Lý Thuyết Đồ Thị\BaoCao\BaoCao\obj\Debug\BaoCao.pdb
