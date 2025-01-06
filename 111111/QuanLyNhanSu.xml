@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <QuanLyNhanSu>
-	<CongTy>Công ty TNHH Hoa Mai</CongTy>
-	<DiaChi>118 Thủ Khoa Huân, Phan Thiết, Bình Thuận</DiaChi>
-	<SoDienThoai>0252 1234 567</SoDienThoai>
-	<Email>tnhhhoamai@gmail.com</Email>
-	<DanhSachNhanVien>
-		<NhanVien ID="NV01">
-			<TenNhanVien>   nguyen van anh</TenNhanVien>
-			<CMND>261457895</CMND>
-			<GioiTinh>Nam</GioiTinh>
-			<NamSinh>1986</NamSinh>
-		</NhanVien>
-		<NhanVien ID="NV02">
-			<TenNhanVien>lê xuân thanh  </TenNhanVien>
-			<CMND>261457895</CMND>
-			<GioiTinh>Nam</GioiTinh>
-			<NamSinh>1990</NamSinh>
-		</NhanVien>
-		<NhanVien ID="NV03">
-			<TenNhanVien>hoàng ngọc mai  </TenNhanVien>
-			<CMND>261457895</CMND>
-			<GioiTinh>Nam</GioiTinh>
-			<NamSinh>1993</NamSinh>
-		</NhanVien>
-		<NhanVien ID="NV04">
-			<TenNhanVien>lê trung đông</TenNhanVien>
-			<CMND>261457895</CMND>
-			<GioiTinh>Nữ</GioiTinh>
-			<NamSinh>1997</NamSinh>
-		</NhanVien>
-		<NhanVien ID="NV05">
-			<TenNhanVien>võ thị mỹ hồng</TenNhanVien>
-			<CMND>261111112</CMND>
-			<GioiTinh>Nữ</GioiTinh>
-			<NamSinh>1987</NamSinh>
-		</NhanVien>
-	</DanhSachNhanVien>
+  <CongTy>Công ty TNHH Hoa Mai</CongTy>
+  <DiaChi>118 Thủ Khoa Huân, Phan Thiết, Bình Thuận</DiaChi>
+  <SoDienThoai>0252 1234 567</SoDienThoai>
+  <Email>tnhhhoamai@gmail.com</Email>
+  <DanhSachNhanVien>
+    <NhanVien ID="NV01">
+      <TenNhanVien>   nguyen van anh</TenNhanVien>
+      <CMND>261457895</CMND>
+      <GioiTinh>Nam</GioiTinh>
+      <NamSinh>1986</NamSinh>
+    </NhanVien>
+    <NhanVien ID="NV02">
+      <TenNhanVien>lê xuân thanh  </TenNhanVien>
+      <CMND>261457895</CMND>
+      <GioiTinh>Nam</GioiTinh>
+      <NamSinh>1990</NamSinh>
+    </NhanVien>
+    <NhanVien ID="NV03">
+      <TenNhanVien>hoàng ngọc mai  </TenNhanVien>
+      <CMND>261457895</CMND>
+      <GioiTinh>Nam</GioiTinh>
+      <NamSinh>1993</NamSinh>
+    </NhanVien>
+    <NhanVien ID="NV04">
+      <TenNhanVien>lê trung đông</TenNhanVien>
+      <CMND>261457895</CMND>
+      <GioiTinh>Nữ</GioiTinh>
+      <NamSinh>1997</NamSinh>
+    </NhanVien>
+    <NhanVien ID="NV05">
+      <TenNhanVien>võ thị mỹ hồng</TenNhanVien>
+      <CMND>261111112</CMND>
+      <GioiTinh>Nữ</GioiTinh>
+      <NamSinh>1987</NamSinh>
+    </NhanVien>
+  </DanhSachNhanVien>
 </QuanLyNhanSu>

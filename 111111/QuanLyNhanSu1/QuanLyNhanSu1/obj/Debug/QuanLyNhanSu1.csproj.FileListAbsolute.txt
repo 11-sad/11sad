@@ -1,0 +1,8 @@
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\bin\Debug\QuanLyNhanSu1.exe.config
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\bin\Debug\QuanLyNhanSu1.exe
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\bin\Debug\QuanLyNhanSu1.pdb
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\obj\Debug\QuanLyNhanSu1.csproj.AssemblyReference.cache
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\obj\Debug\QuanLyNhanSu1.csproj.CoreCompileInputs.cache
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\obj\Debug\QuanLyNhanSu1.exe
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\obj\Debug\QuanLyNhanSu1.pdb
+C:\Users\anhst\OneDrive\Máy tính\111111\QuanLyNhanSu1\QuanLyNhanSu1\bin\Debug\Program.cs
