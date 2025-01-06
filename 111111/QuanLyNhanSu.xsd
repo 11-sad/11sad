@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://tempuri.org/XMLSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:mstns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<!-- Định nghĩa phần tử QuanLyNhanSu -->
+		<xs:element name="QuanLyNhanSu">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element name="CongTy" type="xs:string"/>
+					<xs:element name="DiaChi" type="xs:string"/>
+					<xs:element name="SoDienThoai" type="xs:string"/>
+					<xs:element name="Email" type="xs:string"/>
+					<xs:element name="DanhSachNhanVien">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="NhanVien" maxOccurs="10">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element name="TenNhanVien" type="xs:string"/>
+											<xs:element name="CMND" type="xs:string"/>
+											<xs:element name="GioiTinh" type="xs:string"/>
+											<xs:element name="NamSinh" type="xs:gYear"/>
+										</xs:sequence>
+										<xs:attribute name="ID" type="xs:string"/>
+									</xs:complexType>
+								</xs:element>
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+
+		<!-- Định nghĩa các kiểu dữ liệu cần thiết -->
+		<!-- GioiTinh chỉ có thể là 'Nam' hoặc 'Nữ' -->
+		<xs:simpleType name="GioiTinhType">
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Nam"/>
+				<xs:enumeration value="Nữ"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- Định dạng số điện thoại: 0252 xxx xxx -->
+		<xs:simpleType name="SoDienThoaiType">
+			<xs:restriction base="xs:string">
+				<xs:pattern value="0252 \d{3} \d{3}"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- Định dạng CMND là dãy số -->
+		<xs:simpleType name="CMNDType">
+			<xs:restriction base="xs:string">
+				<xs:pattern value="\d{9}"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- Định dạng mã nhân viên: NVxx -->
+		<xs:simpleType name="MaNhanVienType">
+			<xs:restriction base="xs:string">
+				<xs:pattern value="NV\d{2}"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- Định dạng năm sinh: Chỉ nhân viên dưới 35 tuổi tính từ 2020 -->
+		<xs:simpleType name="NamSinhType">
+			<xs:restriction base="xs:gYear">
+				<xs:pattern value="19\d{2}|20(0[1-9]|1[0-9])"/>
+			</xs:restriction>
+		</xs:simpleType>
+
+		<!-- Định dạng địa chỉ với tối đa 300 ký tự -->
+		<xs:simpleType name="DiaChiType">
+			<xs:restriction base="xs:string">
+				<xs:maxLength value="300"/>
+			</xs:restriction>
+		</xs:simpleType>
+</xs:schema>
